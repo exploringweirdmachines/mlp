@@ -1,0 +1,1 @@
+Notes and code by following Andrej Karpathy's makemore youtube series.
