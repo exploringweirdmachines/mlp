@@ -1,3 +1,5 @@
+## MLP
+
 Notes and code by following Andrej Karpathy's makemore youtube series.
 
 ### Part 1 
@@ -34,3 +36,14 @@ Building makemore Part 4: Becoming a Backprop Ninja
 Notebook: multi-layer.perceptron-part4.ipynb
 
 Link: https://www.youtube.com/watch?v=q8SA3rM6ckI
+
+
+
+
+## Transformers
+
+Let's build GPT: from scratch, in code, spelled out.
+
+Notebook: transformer-decoder.ipynb
+
+Link: https://www.youtube.com/watch?v=kCc8FmEb1nY
